@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/SunKyeong-Lee/react-shopping-mall.git/static/css/main.54969917.css",
-    "main.js": "/SunKyeong-Lee/react-shopping-mall.git/static/js/main.5f324c31.js",
-    "static/js/787.a61f225c.chunk.js": "/SunKyeong-Lee/react-shopping-mall.git/static/js/787.a61f225c.chunk.js",
-    "static/media/1.jpg": "/SunKyeong-Lee/react-shopping-mall.git/static/media/1.8ce201e17b000f19a11a.jpg",
-    "static/media/1-2.jpg": "/SunKyeong-Lee/react-shopping-mall.git/static/media/1-2.400a38ace33dd182a83e.jpg",
-    "static/media/2.jpg": "/SunKyeong-Lee/react-shopping-mall.git/static/media/2.c4e690a82878bd566700.jpg",
-    "static/media/slick.svg": "/SunKyeong-Lee/react-shopping-mall.git/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/SunKyeong-Lee/react-shopping-mall.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/SunKyeong-Lee/react-shopping-mall.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/SunKyeong-Lee/react-shopping-mall.git/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/SunKyeong-Lee/react-shopping-mall.git/index.html",
-    "main.54969917.css.map": "/SunKyeong-Lee/react-shopping-mall.git/static/css/main.54969917.css.map",
-    "main.5f324c31.js.map": "/SunKyeong-Lee/react-shopping-mall.git/static/js/main.5f324c31.js.map",
-    "787.a61f225c.chunk.js.map": "/SunKyeong-Lee/react-shopping-mall.git/static/js/787.a61f225c.chunk.js.map"
+    "main.css": "/react-shopping-mall/static/css/main.f152c01a.css",
+    "main.js": "/react-shopping-mall/static/js/main.c9a6b3a0.js",
+    "static/js/787.a61f225c.chunk.js": "/react-shopping-mall/static/js/787.a61f225c.chunk.js",
+    "static/media/1.jpg": "/react-shopping-mall/static/media/1.8ce201e17b000f19a11a.jpg",
+    "static/media/1-2.jpg": "/react-shopping-mall/static/media/1-2.400a38ace33dd182a83e.jpg",
+    "static/media/2.jpg": "/react-shopping-mall/static/media/2.c4e690a82878bd566700.jpg",
+    "static/media/slick.svg": "/react-shopping-mall/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-shopping-mall/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-shopping-mall/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-shopping-mall/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-shopping-mall/index.html",
+    "main.f152c01a.css.map": "/react-shopping-mall/static/css/main.f152c01a.css.map",
+    "main.c9a6b3a0.js.map": "/react-shopping-mall/static/js/main.c9a6b3a0.js.map",
+    "787.a61f225c.chunk.js.map": "/react-shopping-mall/static/js/787.a61f225c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54969917.css",
-    "static/js/main.5f324c31.js"
+    "static/css/main.f152c01a.css",
+    "static/js/main.c9a6b3a0.js"
   ]
 }
