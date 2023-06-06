@@ -79,12 +79,10 @@ const DataProvider = ({ children }) => {
     }
   ]);
 
-  const [commentCount, setCommentCount] = useState(3);
-
   // 사용할 value 값을 state와 action으로 분리해서 넣어둠
   const value = {
-    state: { user, productList, allComments, commentCount },
-    action: { setUser, setproductList, setAllComments, setCommentCount },
+    state: { user, productList, allComments },
+    action: { setUser, setproductList, setAllComments },
   };
 
   // DataProvider를 사용할 때 DataContext.Provider를 사용할 수 있도록 함
